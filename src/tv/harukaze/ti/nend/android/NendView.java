@@ -21,7 +21,7 @@ public class NendView extends TiUIView
 	// Constructor
 	public NendView(final TiViewProxy proxy) {
 		super(proxy);
-		nendAdView = new NendAdView(proxy.getContext(), Tinend4androidModule.Spotid, Tinend4androidModule.Apikey);
+		nendAdView = new NendAdView(proxy.getActivity(), Tinend4androidModule.Spotid, Tinend4androidModule.Apikey);
 	    setNativeView(nendAdView);
 	}
 

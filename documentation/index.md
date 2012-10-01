@@ -2,7 +2,7 @@
 
 ## Description
 
-TODO: Enter your module description here
+Titanium Android Module for Nend Ad
 
 ## Accessing the timedibaad4android Module
 
@@ -14,26 +14,20 @@ The tinend4android variable is a reference to the Module object.
 
 ## Reference
 
-TODO: If your module has an API, you should document
-the reference here.
 
 ### ___PROJECTNAMEASIDENTIFIER__.function
 
-TODO: This is an example of a module function.
 
 ### ___PROJECTNAMEASIDENTIFIER__.property
 
-TODO: This is an example of a module property.
 
 ## Usage
 
-TODO: Enter your usage example here
 
 ## Author
 
-TODO: Enter your author name, email and other contact
-details you want to share here. 
+Tomoya Narita <sphone@harukaze.tv> (harukazepc)
 
 ## License
 
-TODO: Enter your license/legal information here.
+MIT

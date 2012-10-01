@@ -10,7 +10,6 @@ package tv.harukaze.ti.nend.android;
 
 import org.appcelerator.kroll.annotations.Kroll;
 
-import org.appcelerator.titanium.TiContext;
 import org.appcelerator.titanium.view.TiUIView;
 import org.appcelerator.titanium.proxy.TiViewProxy;
 
@@ -25,8 +24,8 @@ public class NendViewProxy extends TiViewProxy
 	private NendView adView;
 	
 	// Constructor
-	public NendViewProxy(TiContext tiContext) {
-		super(tiContext);
+	public NendViewProxy() {
+		super();
 	}
 
 	@Override

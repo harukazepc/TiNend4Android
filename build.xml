@@ -1,6 +1,6 @@
 <project name="TiNend4Android" default="dist">
 	<description>
-		Ant build script for Titanium Android module TiMedibaad4Android
+		Ant build script for Titanium Android module TiNend4Android
 	</description>
 
 	<property name="ti.module.root" location="${basedir}"/>

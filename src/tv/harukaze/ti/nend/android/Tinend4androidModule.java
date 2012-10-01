@@ -11,7 +11,6 @@ package tv.harukaze.ti.nend.android;
 import org.appcelerator.kroll.KrollModule;
 import org.appcelerator.kroll.annotations.Kroll;
 
-import org.appcelerator.titanium.TiContext;
 import org.appcelerator.titanium.util.Log;
 import org.appcelerator.titanium.util.TiConfig;
 
@@ -26,8 +25,8 @@ public class Tinend4androidModule extends KrollModule
 	// You can define constants with @Kroll.constant, for example:
 	// @Kroll.constant public static final String EXTERNAL_NAME = value;
 	
-	public Tinend4androidModule(TiContext tiContext) {
-		super(tiContext);
+	public Tinend4androidModule() {
+		super();
 	}
 
 	// Methods
